@@ -12,7 +12,8 @@ I design modular, governance-first architectures for engineering and product org
 
 - **Certification systems:** Role-based, modular certification paths for engineers and product teams  
 - **AI-augmented workflows:** Integrating AI into existing engineering practices with guardrails and governance  
-- **Learning ecosystems:** Confluence- and GitHub-based learning platforms aligned to real delivery work  
+- **Learning ecosystems:** Confluence- and GitHub-based learning platforms aligned to real delivery work
+- **Ecosystem adoption:** Architecting seamless, "in-flow" learning environments within Confluence and GitHub that prioritize behavioral change over passive consumption, ensuring AI-native habits are embedded directly into the daily delivery lifecycle. 
 
 ---
 
