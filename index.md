@@ -7,6 +7,7 @@ Senior Certification & AI Capability Architect
 ## Architecture blueprints
 
 I design modular, governance-first architectures for engineering and product organizations, with a focus on:
+
 [View architecture blueprints →](blueprints.md)
 
 - **Certification systems:** Role-based, modular certification paths for engineers and product teams  
