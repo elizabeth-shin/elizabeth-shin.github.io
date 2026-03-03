@@ -11,9 +11,9 @@ I design modular, governance-first architectures for engineering and product org
 [View architecture blueprints →](blueprints.md)
 
 - **Certification systems:** Role-based, modular certification paths for engineers and product teams  
-- **AI-augmented workflows:** Integrating AI into existing engineering practices with guardrails and governance  
-- **Learning ecosystems:** Confluence- and GitHub-based learning platforms aligned to real delivery work
-- **Ecosystem adoption:** Architecting seamless, "in-flow" learning environments within Confluence and GitHub that prioritize behavioral change over passive consumption, ensuring AI-native habits are embedded directly into the daily delivery lifecycle. 
+- **AI-augmented workflows:** Integrating AI into delivery cycles with governance and guardrails
+- **Learning ecosystems:** Confluence and GitHub platforms aligned to real-world delivery
+- **Ecosystem adoption:** Architecting "in-flow" environments that prioritize behavioral change and AI-native habits
 
 ---
 
@@ -41,9 +41,9 @@ Coming soon:
 
 I work at the intersection of:
 
-- **Architecture:** Systems, workflows, and governance  
-- **Enablement:** Making complex capabilities usable by real teams  
-- **Emerging tech:** AI-native practices for engineering and product  
+- **Strategic architecture:** Governance-first systems and automated workflows
+- **AI enablement & adoption:** Driving measurable behavior change and tool adoption
+- **Emerging tech transformation:** Pioneering AI-native practices for engineering and product teams
 
 This site is a living portfolio as I formalize and publish my blueprints.
 
