@@ -1,6 +1,6 @@
 # Elizabeth Shin
 
-Senior Certification & AI Capability Architect
+Senior Certification & AI Capability Architect | AI Adoption & Strategic Enablement
 
 ---
 
