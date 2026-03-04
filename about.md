@@ -23,3 +23,14 @@ My work blends:
 - Modular, product-aligned architecture  
 
 This portfolio is a living space where I publish blueprints, models, and certification frameworks.
+
+---
+
+## Site navigation
+
+- [Home](index.md)
+- [Architecture Blueprints](blueprints.md)
+- [AI-Augmented Engineering Certification](certification.md)
+- [Portfolio Artifacts](artifacts.md)
+- [About](about.md)
+
