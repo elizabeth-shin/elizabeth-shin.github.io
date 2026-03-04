@@ -54,7 +54,7 @@ This site is a living portfolio as I formalize and publish my blueprints.
 For consulting, collaboration, or roles aligned to emerging tech & AI capability architecture:
 
 - **GitHub:** You’re already here  
-- **LinkedIn:** https://www.linkedin.com/in/drelizabethshin/
+- **LinkedIn:** [linkedin.com/in/drelizabethshin](https://www.linkedin.com/in/drelizabethshin/)
 
 ---
 
