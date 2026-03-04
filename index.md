@@ -55,7 +55,7 @@ For consulting, collaboration, or roles aligned to emerging tech & AI capability
 - **GitHub:** You’re already here  
 - **LinkedIn:** https://www.linkedin.com/in/drelizabethshin/
 
-- ---
+---
 
 ## Site navigation
 
