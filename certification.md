@@ -23,3 +23,14 @@ The certification system is designed to:
 - Provide measurable adoption and capability uplift  
 
 More detailed artifacts will be published as they are finalized.
+
+---
+
+## Site navigation
+
+- [Home](index.md)
+- [Architecture Blueprints](blueprints.md)
+- [AI-Augmented Engineering Certification](certification.md)
+- [Portfolio Artifacts](artifacts.md)
+- [About](about.md)
+
