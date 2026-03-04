@@ -54,3 +54,13 @@ For consulting, collaboration, or roles aligned to emerging tech & AI capability
 
 - **GitHub:** You’re already here  
 - **LinkedIn:** https://www.linkedin.com/in/drelizabethshin/
+
+- ---
+
+## Site navigation
+
+- [Architecture Blueprints](blueprints.md)  
+- [AI-Augmented Engineering Certification](certification.md)  
+- [Portfolio Artifacts](artifacts.md)  
+- [About](about.md)
+
