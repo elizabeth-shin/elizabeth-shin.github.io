@@ -1,28 +1,34 @@
 # Architecture Blueprints
 
-This page hosts my architecture maps, system blueprints, and governance-first models. It serves as the technical backbone of my portfolio and reflects how I design modular, scalable, and AI-augmented systems for engineering and product organizations.
+## iCertify Architecture Blueprint
+
+<p align="center">
+  <img src="assets/icertify.png" width="900">
+</p>
+
+This blueprint outlines the modular, governance-first certification system designed for engineering and product teams.
 
 ---
 
-## Current blueprint work
+## Confluence Learning Hub Architecture
 
-- Modular certification architecture for engineering and product teams  
-- AI-augmented engineering workflows with governance layers  
-- Learning ecosystem architecture (Confluence + GitHub)  
-- Capability maps for AI-native engineering practices  
-- Governance and risk-mitigation patterns for AI adoption  
+<p align="center">
+  <img src="assets/confluence.png" width="900">
+</p>
+
+This map shows the learning ecosystem architecture built on Confluence, aligned to real delivery workflows.
 
 ---
 
-## Upcoming additions
+## DailyDos System Map
 
-- Full AI-Augmented Engineering Certification blueprint  
-- Model architecture diagrams  
-- Governance and risk-mitigation patterns  
-- Implementation playbooks  
-- End-to-end capability maps for engineering teams
+<p align="center">
+  <img src="assets/warrior_dailydos.png" width="900">
+</p>
 
-- ---
+This system map illustrates the in-flow, habit-forming learning model that supports daily AI-native practice.
+
+---
 
 ## Site navigation
 
@@ -31,5 +37,3 @@ This page hosts my architecture maps, system blueprints, and governance-first mo
 - [AI-Augmented Engineering Certification](certification.md)
 - [Portfolio Artifacts](artifacts.md)
 - [About](about.md)
-
-
