@@ -20,5 +20,16 @@ This page hosts my architecture maps, system blueprints, and governance-first mo
 - Model architecture diagrams  
 - Governance and risk-mitigation patterns  
 - Implementation playbooks  
-- End-to-end capability maps for engineering teams  
+- End-to-end capability maps for engineering teams
+
+- ---
+
+## Site navigation
+
+- [Home](index.md)
+- [Architecture Blueprints](blueprints.md)
+- [AI-Augmented Engineering Certification](certification.md)
+- [Portfolio Artifacts](artifacts.md)
+- [About](about.md)
+
 
