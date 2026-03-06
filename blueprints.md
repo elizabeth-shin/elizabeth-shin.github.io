@@ -1,5 +1,15 @@
 # Architecture Blueprints
 
+## Production-Grade RAG System
+
+<p align="center">
+  <img src="assets/production_grade_rag_system.png" width="900">
+</p>
+
+This blueprint illustrates a production-grade Retrieval-Augmented Generation (RAG) system that combines hybrid search, reranking, and evaluation to deliver grounded, traceable answers for internal knowledge workflows.
+
+---
+
 ## iCertify Architecture Blueprint
 
 <p align="center">
