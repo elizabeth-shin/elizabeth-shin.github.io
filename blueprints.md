@@ -1,4 +1,12 @@
-# Architecture Blueprints
+# Blueprint Gallery
+
+<p align="center">
+  <img src="assets/iCertify_Platform_Blueprint.png" width="900">
+</p>
+
+A 6-layer architecture blueprint for the iCertify credential ecosystem, mapping the AI-Augmented Security Engineer master credential, shared capability spine, delivery system, governance framework, and expansion roadmap.
+
+---
 
 ## Production-Grade RAG System
 
