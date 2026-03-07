@@ -14,7 +14,7 @@ A 6-layer architecture blueprint for the iCertify credential ecosystem, mapping 
   <img src="assets/production_grade_rag_system.png" width="900">
 </p>
 
-This blueprint illustrates a production-grade Retrieval-Augmented Generation (RAG) system that combines hybrid search, reranking, and evaluation to deliver grounded, traceable answers for internal knowledge workflows.
+A production‑grade Retrieval‑Augmented Generation architecture that integrates hybrid search, cross‑encoder reranking, and automated evaluation to deliver grounded, traceable answers for internal knowledge workflows with consistent quality and governance.
 
 ---
 
@@ -24,7 +24,7 @@ This blueprint illustrates a production-grade Retrieval-Augmented Generation (RA
   <img src="assets/icertify.png" width="900">
 </p>
 
-This blueprint outlines the modular, governance-first certification system designed for engineering and product teams.
+A multi‑layer credentialing platform architecture that unifies the AI‑Augmented Security Engineer master credential, capability pathways, delivery workflows, governance controls, and long‑term expansion roadmap into a governed, extensible ecosystem.
 
 ---
 
@@ -34,7 +34,7 @@ This blueprint outlines the modular, governance-first certification system desig
   <img src="assets/confluence.png" width="900">
 </p>
 
-This map shows the learning ecosystem architecture built on Confluence, aligned to real delivery workflows.
+A Confluence‑based learning ecosystem architecture that mirrors real delivery workflows and provides a governed, modular foundation for capability development, content lifecycle management, and AI‑augmented learning across engineering and product teams.
 
 ---
 
@@ -44,7 +44,7 @@ This map shows the learning ecosystem architecture built on Confluence, aligned 
   <img src="assets/warrior_dailydos.png" width="900">
 </p>
 
-This system map illustrates the in-flow, habit-forming learning model that supports daily AI-native practice.
+A behavior‑design system that applies architectural principles to daily habit formation, demonstrating how human workflows can be structured with the same clarity as technical systems.
 
 ---
 
