@@ -1,6 +1,6 @@
 # About Elizabeth Shin
 
-I architect governance-first, AI-augmented systems that accelerate capability building across engineering and product organizations. My work focuses on designing environments where AI adoption becomes natural, measurable, and sustainable.
+I architect governance-first, AI-augmented systems that accelerate capability building across engineering, product, and security organizations.
 
 ---
 
@@ -8,7 +8,8 @@ I architect governance-first, AI-augmented systems that accelerate capability bu
 
 - **Strategic architecture:** Governance-first systems, capability modeling, and automated workflows  
 - **AI transformation & adoption:** Designing environments that drive measurable behavior change and sustained tool usage  
-- **Emerging tech enablement:** Defining AI-native practices for engineering and product teams  
+- **Emerging tech enablement:** Defining AI-native practices for engineering and product teams
+- **Cybersecurity & AI:** IAM, vulnerability management, and AI-augmented security engineering
 
 ---
 
