@@ -1,4 +1,4 @@
-## Cybersecurity & AI Enablement Architect | Emerging Tech Strategist | Certification Design 
+## AI & Tech Enablement Architect | Cybersecurity | Emerging Tech Strategist | Certification Design
 AI Transformation & Strategic Enablement
 
 
