@@ -1,4 +1,4 @@
-## Senior Certification & AI Capability Architect  
+## Cybersecurity & AI Enablement Architect | Emerging Tech Strategist | Certification Design 
 AI Transformation & Strategic Enablement
 
 
