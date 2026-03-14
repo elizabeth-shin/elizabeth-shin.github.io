@@ -63,5 +63,5 @@ For consulting, collaboration, or roles aligned to emerging tech & AI capability
 - [Architecture Blueprints](blueprints.md)  
 - [AI-Augmented Engineering Certification](certification.md)  
 - [Portfolio Artifacts](artifacts.md)  
-- [About](about.md)
+- [About](https://github.com/elizabeth-shin)
 
