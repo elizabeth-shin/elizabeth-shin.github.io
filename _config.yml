@@ -1,3 +1,10 @@
 theme: jekyll-theme-slate
 title: Elizabeth Shin
 description: Architecture & AI Capability Portfolio
+
+nav:
+  - Home: index.md
+  - Architecture Blueprints: blueprints.md
+  - AI-Augmented Engineering Certification: certification.md
+  - Portfolio Artifacts: artifacts.md
+  - About: https://github.com/elizabeth-shin
