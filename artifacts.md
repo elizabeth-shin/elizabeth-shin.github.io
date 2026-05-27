@@ -6,8 +6,9 @@ A collection of architectural blueprints, capability models, and AI-augmented wo
 
 ## Published artifacts
 
-- Architecture Blueprints (see blueprints.md)  
-- AI-Augmented Engineering Certification (see certification.md)  
+- Architecture Blueprints (see blueprints.md)
+- AI-Augmented Engineering Certification (see certification.md)
+- [ARISE: Build Systems. Not Just Content.](https://elizabeth-shin.github.io/arise.html) — A framework for AI-augmented systems thinking and learning architecture
 
 ---
 
