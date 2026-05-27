@@ -29,11 +29,19 @@ This site will host the flagship **AI-Augmented Engineering Certification** blue
 
 ## Portfolio artifacts
 
+### ARISE: Build Systems. Not Just Content.
+
+A framework for AI-augmented systems thinking. How learning architects can use AI to architect ecosystems instead of accelerating content factories.
+
+[View the ARISE Framework →](https://elizabeth-shin.github.io/arise.html)
+
+---
+
 Coming soon:
 
-- **Model Architecture Blueprint** for a Confluence-based learning platform  
-- **AI-augmented certification system** for engineering teams  
-- **Blueprints for product-aligned enablement, governance, and DevEx uplift**  
+- **Model Architecture Blueprint** for a Confluence-based learning platform
+- **AI-augmented certification system** for engineering teams
+- **Blueprints for product-aligned enablement, governance, and DevEx uplift** 
 
 ---
 
