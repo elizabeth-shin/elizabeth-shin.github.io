@@ -1,15 +1,13 @@
----
-layout: default
-title: ARISE Framework | Elizabeth Shin
----
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ARISE Framework | Elizabeth Shin</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap');
 
     :root {
       --navy:       #0D1B2A;
@@ -26,10 +24,16 @@ title: ARISE Framework | Elizabeth Shin
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      font-family: 'DM Sans', sans-serif;
+      font-family: 'DM Sans', sans-serif !important;
       background: var(--navy);
       color: var(--warm-white);
       overflow-x: hidden;
+    }
+
+    h1, h2, h3,
+    .section-title, .arise-word, .download-title,
+    .nav-brand, .hero h1, .hero-quote {
+      font-family: 'DM Serif Display', serif !important;
     }
 
     /* ── GRID BACKGROUND ── */
