@@ -1,7 +1,4 @@
-```markdown
----
-layout: default
-title: Elizabeth Shin
+
 ---
 
 # Elizabeth Shin
