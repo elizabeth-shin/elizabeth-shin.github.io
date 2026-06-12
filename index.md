@@ -1,4 +1,3 @@
-
 ---
 
 # Elizabeth Shin
@@ -7,19 +6,16 @@
 
 ## Senior Technical Program Manager | Learning Architect | IAM Governance & Cybersecurity Enablement | Certification Systems
 
-
-AI Transformation & Strategic Enablement
-
 ---
 
-## Architecture blueprints
+## Architecture Blueprints
 
 I design modular, governance-first architectures for engineering and product organizations, with a focus on:
 
-- **Certification systems:** Role-based, modular certification paths for engineering and product teams
-- **AI-augmented workflows:** Embedding AI into delivery cycles with governance, guardrails, and measurable adoption
-- **Learning ecosystems:** Confluence- and GitHub-based platforms aligned to real delivery work
-- **Human-centric enablement:** Architecting "in-flow" environments that reduce cognitive load and accelerate AI-native habits
+- **Certification systems** — Role-based, modular certification paths for engineering and product teams  
+- **AI-augmented workflows** — Embedding AI into delivery cycles with governance, guardrails, and measurable adoption  
+- **Learning ecosystems** — Confluence- and GitHub-based platforms aligned to real delivery work  
+- **Human-centric enablement** — Architecting "in-flow" environments that reduce cognitive load and accelerate AI-native habits  
 
 [View architecture blueprints →](https://elizabeth-shin.github.io/blueprints.html)
 
@@ -37,7 +33,7 @@ AI-powered tools built and deployed using the Claude API:
 
 ### ARISE: Build Systems. Not Just Content.
 
-A framework for AI-augmented systems thinking. How learning architects can use AI to architect ecosystems instead of accelerating content factories.
+A framework for AI-augmented systems thinking — how learning architects can use AI to architect ecosystems instead of accelerating content factories.
 
 [View the ARISE Framework →](https://elizabeth-shin.github.io/arise.html)
 
@@ -47,9 +43,9 @@ A framework for AI-augmented systems thinking. How learning architects can use A
 
 I work at the intersection of:
 
-- **Strategic architecture:** Governance-first systems, capability modeling, and automated workflows
-- **AI transformation & adoption:** Designing environments that drive measurable behavior change and sustained tool usage
-- **Emerging tech enablement:** Defining AI-native practices for engineering and product organizations
+- **Strategic architecture** — Governance-first systems, capability modeling, and automated workflows  
+- **AI transformation & adoption** — Designing environments that drive measurable behavior change and sustained tool usage  
+- **Emerging tech enablement** — Defining AI-native practices for engineering and product organizations  
 
 This site is a living portfolio as I formalize and publish my blueprints.
 
@@ -59,16 +55,18 @@ This site is a living portfolio as I formalize and publish my blueprints.
 
 For consulting, collaboration, or roles aligned to emerging tech and AI capability architecture:
 
-- **GitHub:** You're already here
+- **GitHub:** You're already here  
 - **LinkedIn:** [linkedin.com/in/drelizabethshin](https://www.linkedin.com/in/drelizabethshin/)
 
 ---
 
-## Site navigation
+## Site Navigation
 
-- [Architecture Blueprints](https://elizabeth-shin.github.io/blueprints.html)
-- [AI-Augmented Engineering Certification](https://elizabeth-shin.github.io/certification.html)
-- [Portfolio Artifacts](https://elizabeth-shin.github.io/artifacts.html)
+- [Architecture Blueprints](https://elizabeth-shin.github.io/blueprints.html)  
+- [AI-Augmented Engineering Certification](https://elizabeth-shin.github.io/certification.html)  
+- [Portfolio Artifacts](https://elizabeth-shin.github.io/artifacts.html)  
 - [About](https://github.com/elizabeth-shin)
+
+---
 
 Published with [GitHub Pages](https://pages.github.com)
