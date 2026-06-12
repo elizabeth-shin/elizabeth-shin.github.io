@@ -5,7 +5,8 @@
 
 ## Architecture & AI Capability Portfolio
 
-## AI & Tech Enablement Architect | Cybersecurity | Emerging Tech Strategist | Certification Design
+## Senior Technical Program Manager | Learning Architect | IAM Governance & Cybersecurity Enablement | Certification Systems
+
 
 AI Transformation & Strategic Enablement
 
