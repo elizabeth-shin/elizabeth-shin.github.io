@@ -56,8 +56,7 @@ For consulting engagements, enterprise collaboration, or strategic leadership ro
 ## 🧭 Site Navigation
 * 📐 [Architecture Blueprints](https://elizabeth-shin.github.io/blueprints.html)  
 * 🏅 [AI-Augmented Engineering Certification](https://elizabeth-shin.github.io/certification.html)  
-* 📂 [Portfolio Artifacts](https://elizabeth-shin.github.io/artifacts.html)  
+* 🛡️ [iCertify Platform](https://elizabeth-shin.github.io/icertify/)  
 * 🏠 [Home Profile](https://github.com/elizabeth-shin)
-
 ---
 *Published via [GitHub Pages](https://pages.github.com)*
