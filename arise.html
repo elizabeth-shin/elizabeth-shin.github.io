@@ -11,14 +11,13 @@ layout: none
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
   <style>
-
     :root {
       --navy:       #0D1B2A;
       --slate:      #1B3A5C;
       --gold:       #C9A84C;
       --gold-light: #F0D990;
       --warm-white: #F8F6F1;
-      --mid-gray:   #6B7280;
+      --mid-gray:   #9CA3AF;
       --light-gray: #E5E7EB;
       --red:        #991B1B;
       --green:      #065F46;
@@ -79,7 +78,6 @@ layout: none
     }
 
     .nav-brand {
-      font-family: 'DM Serif Display', serif;
       font-size: 1.1rem;
       color: var(--warm-white);
       text-decoration: none;
@@ -100,7 +98,7 @@ layout: none
 
     /* ── HERO ── */
     .hero {
-      min-height: 92vh;
+      min-height: 75vh;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -127,153 +125,46 @@ layout: none
     }
 
     .hero h1 {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(3.5rem, 8vw, 7rem);
-      line-height: 1;
+      font-size: clamp(3.5rem, 8vw, 5.5rem);
+      line-height: 1.1;
       letter-spacing: -0.02em;
-      margin-bottom: 8px;
+      margin-bottom: 16px;
       position: relative;
-    }
-
-    .hero h1 .watermark {
-      position: absolute;
-      font-size: clamp(8rem, 20vw, 18rem);
-      color: rgba(255,255,255,0.03);
-      top: -40px;
-      left: -20px;
-      pointer-events: none;
-      user-select: none;
-      line-height: 1;
     }
 
     .hero-sub {
       font-size: clamp(1.1rem, 2vw, 1.4rem);
-      color: rgba(248, 246, 241, 0.6);
+      color: rgba(248, 246, 241, 0.7);
       font-weight: 300;
       margin-bottom: 36px;
-      max-width: 560px;
-    }
-
-    .hero-quote {
-      font-family: 'DM Serif Display', serif;
-      font-style: italic;
-      font-size: 1.15rem;
-      color: var(--gold);
-      padding-left: 20px;
-      border-left: 2px solid var(--gold);
-      margin-bottom: 48px;
-      max-width: 480px;
-    }
-
-    .btn-group { display: flex; gap: 14px; flex-wrap: wrap; }
-
-    .btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 14px 28px;
-      border-radius: 4px;
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.9rem;
-      font-weight: 600;
-      letter-spacing: 0.04em;
-      text-decoration: none;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-
-    .btn-gold {
-      background: var(--gold);
-      color: var(--navy);
-      border: 2px solid var(--gold);
-    }
-    .btn-gold:hover { background: var(--gold-light); border-color: var(--gold-light); transform: translateY(-1px); }
-
-    .btn-outline {
-      background: transparent;
-      color: var(--warm-white);
-      border: 2px solid rgba(248,246,241,0.25);
-    }
-    .btn-outline:hover { border-color: var(--gold); color: var(--gold); transform: translateY(-1px); }
-
-    /* ── SECTION ── */
-    section {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 80px 48px;
-    }
-
-    .section-label {
-      font-size: 0.72rem;
-      font-weight: 700;
-      letter-spacing: 0.2em;
-      color: var(--gold);
-      text-transform: uppercase;
-      margin-bottom: 12px;
-    }
-
-    .section-title {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(1.8rem, 4vw, 2.8rem);
-      line-height: 1.15;
-      margin-bottom: 16px;
-    }
-
-    .section-rule {
-      width: 100%;
-      height: 1px;
-      background: linear-gradient(to right, var(--gold), transparent);
-      margin-bottom: 36px;
-    }
-
-    .section-body {
-      font-size: 1rem;
-      line-height: 1.75;
-      color: rgba(248,246,241,0.75);
-      max-width: 680px;
-      margin-bottom: 24px;
-    }
-
-    /* ── CALLOUT BOX ── */
-    .callout {
-      background: rgba(10, 21, 32, 0.8);
-      border-left: 4px solid var(--gold);
-      border-radius: 0 6px 6px 0;
-      padding: 22px 28px;
-      margin: 32px 0;
-    }
-    .callout strong {
-      display: block;
-      font-size: 1.05rem;
-      color: var(--warm-white);
-      margin-bottom: 8px;
-    }
-    .callout p {
-      font-size: 0.92rem;
-      color: var(--mid-gray);
-      line-height: 1.65;
+      max-width: 650px;
+      line-height: 1.6;
     }
 
     /* ── ARISE GRID ── */
     .arise-grid {
-      display: grid;
-      gap: 2px;
-      margin-top: 36px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin-top: 40px;
+      margin-bottom: 60px;
     }
 
     .arise-row {
       display: grid;
       grid-template-columns: 80px 1fr;
-      gap: 0;
-      background: rgba(255,255,255,0.04);
-      border-radius: 6px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.05);
+      border-radius: 8px;
       overflow: hidden;
-      transition: background 0.2s;
+      transition: all 0.2s ease;
     }
-    .arise-row:hover { background: rgba(201,168,76,0.06); }
+    .arise-row:hover { 
+      background: rgba(201,168,76,0.04); 
+      border-color: rgba(201,168,76,0.2);
+    }
 
     .arise-letter {
-      font-family: 'DM Serif Display', serif;
       font-size: 3.5rem;
       color: var(--gold);
       display: flex;
@@ -285,52 +176,90 @@ layout: none
     }
 
     .arise-content {
-      padding: 20px 24px;
-      border-left: 1px solid rgba(255,255,255,0.06);
+      padding: 24px;
     }
 
     .arise-word {
-      font-family: 'DM Serif Display', serif;
-      font-size: 1.2rem;
+      font-size: 1.3rem;
       color: var(--warm-white);
-      margin-bottom: 6px;
+      margin-bottom: 8px;
+      letter-spacing: 0.02em;
     }
 
     .arise-desc {
-      font-size: 0.88rem;
-      color: var(--mid-gray);
+      font-size: 0.95rem;
+      color: rgba(248, 246, 241, 0.75);
       line-height: 1.6;
     }
+  </style>
+</head>
+<body>
 
-    /* ── COMPARISON TABLE ── */
-    .compare-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-      margin-top: 32px;
-    }
+  <nav>
+    <a href="/" class="nav-brand">Elizabeth<span>Shin</span></a>
+    <div class="nav-links">
+      <a href="/">Portfolio</a>
+    </div>
+  </nav>
 
-    .compare-header {
-      padding: 14px 18px;
-      border-radius: 6px 6px 0 0;
-      font-weight: 700;
-      font-size: 0.95rem;
-      text-align: center;
-    }
-    .compare-header.red { background: var(--red); }
-    .compare-header.green { background: var(--green); }
+  <main>
+    <div class="hero">
+      <div class="hero-eyebrow">Methodology</div>
+      <div class="hero-rule"></div>
+      <h1>The ARISE Framework</h1>
+      <div class="hero-sub">An enterprise-level architectural blueprint designed to bridge the gap between high-level business technology strategy and practical, scalable workforce adoption.</div>
 
-    .compare-col {
-      display: flex;
-      flex-direction: column;
-    }
+      <!-- ARISE Structure Grid -->
+      <div class="arise-grid">
+        
+        <!-- A -->
+        <div class="arise-row">
+          <div class="arise-letter">A</div>
+          <div class="arise-content">
+            <div class="arise-word">Assess & Align</div>
+            <div class="arise-desc">Evaluating complex system dependencies, auditing structural tracking gaps, and mapping operational initiatives straight to high-tier business metrics.</div>
+          </div>
+        </div>
 
-    .compare-item {
-      padding: 12px 18px;
-      font-size: 0.88rem;
-      line-height: 1.5;
-      border-bottom: 1px solid rgba(255,255,255,0.06);
-    }
-    .compare-item.red-bg { background: rgba(153,27,27,0.12); color: #FCA5A5; }
-    .compare-item.green-bg { background: rgba(6,95,70,0.12); color: #6EE7B7; }
-    .compare-item:last-child { border-bottom
+        <!-- R -->
+        <div class="arise-row">
+          <div class="arise-letter">R</div>
+          <div class="arise-content">
+            <div class="arise-word">Roadmap Architecture</div>
+            <div class="arise-desc">Designing the end-to-end strategic layout for cross-functional knowledge systems, integration pipelines, and role-based tracking tracks.</div>
+          </div>
+        </div>
+
+        <!-- I -->
+        <div class="arise-row">
+          <div class="arise-letter">I</div>
+          <div class="arise-content">
+            <div class="arise-word">Integrate Systems</div>
+            <div class="arise-desc">Configuring and embedding technical infrastructure cleanly into core cloud and enterprise systems like Workday, custom LMS, or secure internal data environments.</div>
+          </div>
+        </div>
+
+        <!-- S -->
+        <div class="arise-row">
+          <div class="arise-letter">S</div>
+          <div class="arise-content">
+            <div class="arise-word">Scale & Enable</div>
+            <div class="arise-desc">Deploying highly targeted, adaptive enablement mechanisms globally across internal operations, deep engineering teams, and third-party contractor populations.</div>
+          </div>
+        </div>
+
+        <!-- E -->
+        <div class="arise-row">
+          <div class="arise-letter">E</div>
+          <div class="arise-content">
+            <div class="arise-word">Evaluate Impact</div>
+            <div class="arise-desc">Auditing system adoption metrics, monitoring long-term workflow compliance, and executing rapid optimization feedback loops to secure sustainable business outcomes.</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </main>
+
+</body>
+</html>
