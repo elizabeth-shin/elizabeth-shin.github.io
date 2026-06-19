@@ -26,5 +26,4 @@ A collection of architectural blueprints, capability models, and AI-augmented wo
 - [Architecture Blueprints](blueprints.md)
 - [AI-Augmented Engineering Certification](certification.md)
 - [Portfolio Artifacts](artifacts.md)
-- [About](about.md)
-
+- [About](https://github.com/elizabeth-shin)
